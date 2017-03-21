@@ -1,0 +1,13 @@
+{
+  "name": "qexample",
+  "version": "1.0.0",
+  "description": "Example for Promise with Q parallel and sequentiall ",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pandele George",
+  "license": "ISC"
+}
